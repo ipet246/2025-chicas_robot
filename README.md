@@ -1,2 +1,3 @@
 # 2025-chicas_robot
-grupo 1 integrado por Angela Luna, Celeste Paz y Milagros Abalos
+Auto automatico que esquiva obstaculos.
+Grupo 1 integrado por Angela Luna, Celeste Paz y Milagros Abalos.
